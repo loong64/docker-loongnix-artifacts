@@ -1,0 +1,106 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Debian
+Label: Debian
+Suite: Debian
+Codename: loongnix-stable
+Version: 10.4
+Date: Fri, 30 Oct 2026 08:02:23 UTC
+Architectures: loong64
+Components: main contrib non-free non-free-firmware
+MD5Sum:
+ 9be371b285d61eddf6b7425c5ea49331 88275970 main/binary-loong64/Packages
+ eb42bf6b460c24cc48fdb94f8cf2f745 24371804 main/binary-loong64/Packages.gz
+ 58e63f263dc3ea56d8690429c6d64243 97 main/binary-loong64/Release
+ f1511a29a46397d2b50f708d77b6c2ec 278113 main/debian-installer/binary-loong64/Packages
+ 9347688555a18b03a52ed379f0016a6d 81472 main/debian-installer/binary-loong64/Packages.gz
+ c3025bca3e4f4188b08aca4631b23369 65944682 main/source/Sources
+ 5acb194b2184a249178aec35c5ca99b3 16922333 main/source/Sources.gz
+ 157a35160bec7de8e053134e5a689222 96 main/source/Release
+ d707a59704e2d155c640024dc4fd3c7f 28509 contrib/binary-loong64/Packages
+ cb68e649b7822b8a6ab08915534a4ee4 9388 contrib/binary-loong64/Packages.gz
+ 19b6a91ee734df624130c1c7f7784689 100 contrib/binary-loong64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
+ bf7249fa03d6d844ae9f48c7659c4f13 99 contrib/source/Release
+ a8b75e06155f6062c7dc6e99cb533b21 35018 non-free/binary-loong64/Packages
+ d73473fd13f684a23a6e0fd39df1bea7 8878 non-free/binary-loong64/Packages.gz
+ f4466240beae72cec4f694a5012d9ae5 101 non-free/binary-loong64/Release
+ 4956a41a30863880c6a49cbe563187cf 1692 non-free/source/Sources
+ 9e960113df0f20d1a8b3e4310e18521b 795 non-free/source/Sources.gz
+ b65cbf32728e65bea0f73bb54a6384bf 100 non-free/source/Release
+ 2553ee9af382f11247bc59ac48f5985b 40449 non-free-firmware/binary-loong64/Packages
+ 346ad84cfc5a8b584d20c1b1c4275fc2 12524 non-free-firmware/binary-loong64/Packages.gz
+ 368bcfd2766d6d19bbc740886b412270 110 non-free-firmware/binary-loong64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free-firmware/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free-firmware/source/Sources.gz
+ abd251a75d8606a7b826808dc9eb75c3 109 non-free-firmware/source/Release
+SHA1:
+ baaaf47491b660e5d5d681a37f109d073aeeaeb6 88275970 main/binary-loong64/Packages
+ 256200bfc74485a38e5c608df15481bba79db221 24371804 main/binary-loong64/Packages.gz
+ d70ce39e567a91263788b4b6b812ae6aca4f943d 97 main/binary-loong64/Release
+ 50641267c7ed9c7172b15cebf72dbd14098d1595 278113 main/debian-installer/binary-loong64/Packages
+ 51bebe205c365381721384ef7430b7dfcac3007a 81472 main/debian-installer/binary-loong64/Packages.gz
+ 4e9e9062bcc1b63f110353a0c8280480c0607fdc 65944682 main/source/Sources
+ 70b22d793fe01c59f0879fa1f5cac52a37b9cc48 16922333 main/source/Sources.gz
+ e3d6ee8e06f172e31ad317cd5b59c1a813e1d7fd 96 main/source/Release
+ aada6009469053388b23db43cf4de5292051ed40 28509 contrib/binary-loong64/Packages
+ edcdf2a97ba37ef46ca28cc2ec2f48d25355842f 9388 contrib/binary-loong64/Packages.gz
+ 2174a44e89e4d6a5ddb82a419f7aa7d264d8ec60 100 contrib/binary-loong64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
+ fb29300836ad4f3409e517fd56b1d1d1d6cf0900 99 contrib/source/Release
+ aba21d1f50906ac28de48f812830e442f14641c6 35018 non-free/binary-loong64/Packages
+ 568a342e97a8513222278ead640b6c9ac5c93126 8878 non-free/binary-loong64/Packages.gz
+ 8438245908d7c52452794774a7f5e06d3de056a0 101 non-free/binary-loong64/Release
+ aacf8673ed3854b39d6b8aa1e10cc4fa13cfa834 1692 non-free/source/Sources
+ 049eed3b00cf0878fb84ff5a9b90e9f5d1d7e71c 795 non-free/source/Sources.gz
+ ef5ec23c71dc26289d6788c76269a243252d639f 100 non-free/source/Release
+ 7cdb00fc610af5d6676fffc483c1f37e59c9a1fc 40449 non-free-firmware/binary-loong64/Packages
+ a9b80d274e5f5b9c7b96ea69390b78640c6b1bd5 12524 non-free-firmware/binary-loong64/Packages.gz
+ 5d3c2965269c7bf04a12cc35df20bb241ae90157 110 non-free-firmware/binary-loong64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free-firmware/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free-firmware/source/Sources.gz
+ 182dfa38f644b7aa3ac7ef2588764412fad24c1c 109 non-free-firmware/source/Release
+SHA256:
+ 252564bfada09967607eefda56d77df8ac3bda67c2e7803594022ade6ca7f5e2 88275970 main/binary-loong64/Packages
+ 40bee45c8f9e3c2e7d20a94bf6783534943d2df2947b594a2a480cbe26be1b9f 24371804 main/binary-loong64/Packages.gz
+ dfbf02f301a5180386d3e157be9553ef8b9286d1bb58cfacd9a1ea4b70dc3967 97 main/binary-loong64/Release
+ cbb47856fc0b1cff02abaf0c16426f662772c5cf249a61fc9799071dd24b7e57 278113 main/debian-installer/binary-loong64/Packages
+ b1fd8601a1532b9e65613949ae8fbc538de04473b8b040e1dc49e1c84f8af6b8 81472 main/debian-installer/binary-loong64/Packages.gz
+ ed5a11a9887b0ac159d81034f18ab03bcbcc4167e2d34785f5e5c850c35cb01f 65944682 main/source/Sources
+ 2f7a8963df3aa07987bb803a7b480f0713dc8037c386386d04844a63b07470a8 16922333 main/source/Sources.gz
+ 3d47062b4c641dad7bbe520e3c0df65954b6a9fd7867cde781a22d28c2592749 96 main/source/Release
+ 1f2a0215be9751534ed14843bf2342495a42e4eda02609d09d817c342ff2ee9e 28509 contrib/binary-loong64/Packages
+ 9e5bf53fb6ea3979139b6247bff905b1cd194e59c43c7056984ec3769d47e903 9388 contrib/binary-loong64/Packages.gz
+ 625d704f4826c94381d5701d2b1381ee1ce39f2689eda9329c1a73ef0668528e 100 contrib/binary-loong64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
+ 637ac92b7c5b2718ecb4a62e86ad1d60048411b9f924c0c04b5be0bcad74fa28 99 contrib/source/Release
+ a905a030b477f16ce278cbb730e75bcf2163d5c95149cb2bfeee8e0440af3e2c 35018 non-free/binary-loong64/Packages
+ 70a9aed1c0257d462428ba6517246fc5c8d99deed43b6de9122085cfd35549fc 8878 non-free/binary-loong64/Packages.gz
+ 97cb7af8cfe5400944fab0eba13e3ef65e48cc19f9c9cb793b3f055c294918bd 101 non-free/binary-loong64/Release
+ 0832862b1d93720b9de77e384e56f85efafdf098bf42d19b29481dd877bfa843 1692 non-free/source/Sources
+ 7ab8136129263fbb934e429cf688418e2dbc9155bc238a69e6ea25594839b805 795 non-free/source/Sources.gz
+ 8ab629f142e3f8661804361a319141b3964f84878a3d7528e614f964713d9ffc 100 non-free/source/Release
+ 59fc4a2c24f0d3e14fc2101a08f105005da6c00bd63ba392234b90f9d6384e95 40449 non-free-firmware/binary-loong64/Packages
+ f03d8111560fe5e35710c7674e45ee9a51074a09a66da16e943e935812e46d90 12524 non-free-firmware/binary-loong64/Packages.gz
+ bf55cf2d4543f2c544417756392660894308a597d584f29a64ce891790981367 110 non-free-firmware/binary-loong64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free-firmware/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free-firmware/source/Sources.gz
+ 85aed5d6e81d72849f566f7016f246307b30b5a237b32d996a3384cf4e677778 109 non-free-firmware/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE0bj00yQfAVys9zPTqMfCDO3xuBcFAmrkTw8ACgkQqMfCDO3x
+uBfCAAv/dNs3gcTKZd/haUx7PATayQSJzOXjZ7Bu2FQjmeGceAM7luV4ZQBIJJee
+7oRFMUc86riI7jrmgCIdUy5uIT5w13WyxWCArONLmzYR5lkSuYBlrPhsp9VjSlke
+PHD9iCivmqOaf9RieTftVma+CBnKtJVJMMQ6A+D0WcwFXmOR047TiUUht8am4927
+9qsbPMIZBR9Prvl9OYEPSq3gkdc2qaDw7I2D7KsnT1RLrRjuwhwJFH+hWLbf9ouE
+Zh6pspbr5mJzHevMY9LDneRgY4jbC4+/4OPl/AuS2bdODnWc003EpXQyTBC01x3y
+qWOEtl5mNr5P2NWNUijKpkRdy2cVeS8pzfUjDuokAQzfsZGtykowe55LPqbEeus7
+Nd4pHkHOgTNFRBoZk76Tj5z5bXXnvcTcJgJUsqK9ywSWp08YbkPIRswWh5gIAh72
+iCdmiC4S6ebt1js/T2WjV5kg9o9aTjowO8Mr5ZVA8jHPldlWI5L5YVQKq7Qruu5J
+mo4NMYbK
+=Hafr
+-----END PGP SIGNATURE-----
